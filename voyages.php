@@ -16,13 +16,13 @@ $voyages = read_voyages();
     <h1 class="main-title">O’Bitoun Travel</h1>
     <nav>
       <ul>
-        <li><a href="../../html/index.html">Accueil</a></li>
-        <li><a href="../../html/presentation.html">Présentation</a></li>
-        <li><a href="../../html/recherche.html">Rechercher un voyage</a></li>
-        <li><a href="../../html/inscription.html">Inscription</a></li>
-        <li><a href="../../html/connexion.html">Connexion</a></li>
-        <li><a href="../../html/profil.html">Profil</a></li>
-        <li><a href="../../html/admin.html">Admin</a></li>
+        <li><a href="../index.html">Accueil</a></li>
+        <li><a href="../presentation.html">Présentation</a></li>
+        <li><a href="../recherche.html">Rechercher un voyage</a></li>
+        <li><a href="../inscription.html">Inscription</a></li>
+        <li><a href="../connexion.html">Connexion</a></li>
+        <li><a href="../profil.html">Profil</a></li>
+        <li><a href="../admin.html">Admin</a></li>
       </ul>
     </nav>
   </header>
@@ -59,7 +59,7 @@ $voyages = read_voyages();
       </tbody>
     </table>
     <br>
-    <a href="../../html/recherche.html" class="btn">Retour à la recherche</a>
+    <a href="../recherche.html" class="btn">Retour à la recherche</a>
   </main>
   <footer>
     <p>&copy; 2025 O’Bitoun Travel - Tous droits réservés</p>
